@@ -1,0 +1,5 @@
+{
+    "require": {
+        "packaged/thrift": "^0.10.0"
+    }
+}
